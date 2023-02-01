@@ -1,4 +1,5 @@
 # bikesharing
+Using '201908-citibike-tripdata.csv' I had to do preprocessing before importing the updated data to tableau and created visualizations that tells a story about the data.
 ## Overview of Analysis
 For this project I had to change the tripduration column from an integer to a datetime datatype before I could start the visualization process in tableau. Once that was finished I then went to get my updated data into tableau to create the 5 new visualizations which are listed here:
 - How long bikes are checked out for all riders and genders.
