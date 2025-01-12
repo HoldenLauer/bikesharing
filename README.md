@@ -1,7 +1,7 @@
 # bikesharing
 Using '201908-citibike-tripdata.csv', the data was preprocessed before being imported to Tableau where visualizations were created to formulate a story about the data.
 ## Overview of Analysis
-For this project, the tripduration column was modified from an integer to a datetime datatype before beginning the visualization process in Tableau. Once completed, updated data was placed into Tableau to create the five new visualizations listed here:
+For this project, the tripduration column was modified from an integer to a datetime datatype before beginning the visualization process in Tableau. Once completed, updated data was placed into Tableau to create the new visualizations listed here:
 - How long bikes are checked out for all riders and genders.
 - How many trips are taken by the hour for each day of the week, for all riders and genders.
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
